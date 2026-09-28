@@ -19,3 +19,16 @@ Thumbs.db
 # Environment
 .env
 .env.local
+
+*.mbox
+*.zip
+*.apk
+*.mp4
+*.blend
+*.msi
+*.vdi
+*.iso
+*.so
+*.dll
+*.bin
+*.dill
